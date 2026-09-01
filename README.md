@@ -23,7 +23,7 @@ This script demonstrates fundamental Python concepts such as user input, variabl
 
 ## Requirements
 
-- Python 3.x
+- Python 3.14.2
 
 ## Usage
 
