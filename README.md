@@ -39,18 +39,18 @@ This script demonstrates fundamental Python concepts such as user input, variabl
 
 **Input:**
 ```
-What's your name? : Rahul
-Specify your gender: Male
+What's your name? : Anushka
+Specify your gender: Female
 What do you do? : Developer
-How old are you? : 22
+How old are you? : 19
 ```
 
 **Output:**
 ```
-Name: Rahul
-Gender: Male
+Name: Anushka
+Gender: Female
 Profession: Developer
-Age: 22
+Age: 19
 ```
 
 ## Concepts Demonstrated
