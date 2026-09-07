@@ -2,7 +2,7 @@
 
 A beginner-friendly Python script that collects basic user information through the command line and displays a formatted summary.
 
-## Overview
+##  Overview
 
 This script demonstrates fundamental Python concepts such as user input, variable assignment, and formatted output. It prompts the user for four pieces of information and then displays them in a clean, readable format.
 
