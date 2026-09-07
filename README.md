@@ -1,4 +1,4 @@
-# Profile Builder
+## Profile Builder
 
 A beginner-friendly Python script that collects basic user information through the command line and displays a formatted summary.
 
